@@ -21,9 +21,8 @@ conda activate venv_multiai
 ```bash
 pip install -r requirements.txt
 ```
-```bash
+
 Create a .env file in the root directory and add your GOOGLE_API_KEY credentials
-```
 
 as follows:
 
