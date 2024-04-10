@@ -6,18 +6,18 @@ Clone the repository
 
 ### Project repo: https://github.com/AIWalaBro/Multilingual-AI-Assistant
 
-```bash
-STEP 01- Create a conda environment after opening the repository
-```
+
+## STEP 01- Create a conda environment after opening the repository
+
 ```bash
 conda create -n venv_multiai python=3.10 -y
 ```
 ```bash
 conda activate venv_multiai
 ```
-```bash
-STEP 02- install the requirements
-```
+
+## STEP 02- install the requirements
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -26,6 +26,7 @@ Create a .env file in the root directory and add your GOOGLE_API_KEY credentials
 ```
 
 as follows:
+
 ```bash
 GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
